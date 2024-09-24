@@ -159,6 +159,7 @@
     background-color: #fbf3d5;
     color: #9cafaa;
     width: 100%;
+    z-index: 4;
   }
   .nav-right a {
     color: #9cafaa;
